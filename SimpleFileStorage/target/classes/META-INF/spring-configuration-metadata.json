@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "net.javaguides.springboot.fileuploaddownload.property.FileStorageProperties",
+      "sourceType": "net.javaguides.springboot.fileuploaddownload.property.FileStorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "sourceType": "net.javaguides.springboot.fileuploaddownload.property.FileStorageProperties"
+    }
+  ],
+  "hints": []
+}
